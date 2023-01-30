@@ -1,0 +1,9 @@
+----------------------------------------
+CONTRACT: 
+----------------------------------------
+Player: Karim Benzema
+Player salary: 368500 $
+Player signed bonuss: 2797000 $
+Contract term agreement: 1 years
+----------------------------------------
+

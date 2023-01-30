@@ -1,0 +1,23 @@
+Paris
+Nice
+Marseille
+Rennes
+Nantes
+Montpellier
+Lyon
+Strasbourg
+Metz
+Angra dos Reis.
+Barra Mansa.
+Campos dos Goytacazes.
+Copacabana.
+Duque de Caxias.
+Nilópolis.
+Niterói.
+Nova Friburgo.
+Lisbon
+Porto
+Amadora
+Berlin
+Hamburg
+München

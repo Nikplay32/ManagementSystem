@@ -1,0 +1,9 @@
+ 1
+ Tournament Name: UCL
+ Participant count: 23
+ Date: 10/22/1987 12:00:00 AM
+ Time: 22
+ Stadiums: 45
+ Location: Paris
+ Prize: Cup
+---------------------------
